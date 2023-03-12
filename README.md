@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<Muhammad Iqbal> - <BE44233760>`
+- `Muhammad Iqbal - BE44233760`
 - Bob
